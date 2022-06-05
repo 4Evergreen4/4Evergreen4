@@ -26,7 +26,7 @@ O_/  ___    \ | //    ___/
 
 hello there!
 
-Here you will find a bunch of personal projects of varying degrees of quality. Find more of my stuff at [elj.me](https://elj.me).
+Here you will find a bunch of personal coding projects. I make things as I need them and tend to stop maintaining them when I don't use them anymore, but hopefully someone will find them useful anyway. Find more of my stuff at [elj.me](https://elj.me).
 
 <!--
 **4Evergreen4/4Evergreen4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
