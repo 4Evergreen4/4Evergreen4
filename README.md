@@ -1,6 +1,6 @@
 <div id="tree" align="center">
 <pre>
-                  o         
+                o         
        o__    _/            
     ___   \_ /    o    O    
    0   \____| o   |___/     
